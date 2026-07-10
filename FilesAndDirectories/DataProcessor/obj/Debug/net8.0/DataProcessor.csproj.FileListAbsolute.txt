@@ -1,0 +1,14 @@
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\bin\Debug\net8.0\DataProcessor.exe
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\bin\Debug\net8.0\DataProcessor.deps.json
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\bin\Debug\net8.0\DataProcessor.runtimeconfig.json
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\bin\Debug\net8.0\DataProcessor.dll
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\bin\Debug\net8.0\DataProcessor.pdb
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\obj\Debug\net8.0\DataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\obj\Debug\net8.0\DataProcessor.AssemblyInfoInputs.cache
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\obj\Debug\net8.0\DataProcessor.AssemblyInfo.cs
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\obj\Debug\net8.0\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\obj\Debug\net8.0\DataProcessor.dll
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\obj\Debug\net8.0\refint\DataProcessor.dll
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\obj\Debug\net8.0\DataProcessor.pdb
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\obj\Debug\net8.0\DataProcessor.genruntimeconfig.cache
+C:\Projects\FileStreams\FilesAndDirectories\DataProcessor\obj\Debug\net8.0\ref\DataProcessor.dll

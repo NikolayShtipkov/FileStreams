@@ -1,0 +1,14 @@
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\bin\Debug\net6.0\Excercise.exe
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\bin\Debug\net6.0\Excercise.deps.json
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\bin\Debug\net6.0\Excercise.runtimeconfig.json
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\bin\Debug\net6.0\Excercise.dll
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\bin\Debug\net6.0\Excercise.pdb
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\obj\Debug\net6.0\Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\obj\Debug\net6.0\Excercise.AssemblyInfoInputs.cache
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\obj\Debug\net6.0\Excercise.AssemblyInfo.cs
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\obj\Debug\net6.0\Excercise.csproj.CoreCompileInputs.cache
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\obj\Debug\net6.0\Excercise.dll
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\obj\Debug\net6.0\refint\Excercise.dll
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\obj\Debug\net6.0\Excercise.pdb
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\obj\Debug\net6.0\Excercise.genruntimeconfig.cache
+C:\Projects\FileStreams\FilesAndDirectories\Excercise\obj\Debug\net6.0\ref\Excercise.dll
